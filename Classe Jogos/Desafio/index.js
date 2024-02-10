@@ -29,8 +29,6 @@ class Heroi {
     }
 }
 
-// Criando uma instância da classe Heroi
 let heroiExemplo = new Heroi("Aragorn", 30, "guerreiro");
 
-// Chamando o método de ataque da instância
 heroiExemplo.atacar();
